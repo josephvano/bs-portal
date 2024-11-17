@@ -8,3 +8,8 @@ To start the app, run:
 yarn install
 yarn dev
 ```
+
+## Requirments
+
+* node v20
+* yarn v4.
